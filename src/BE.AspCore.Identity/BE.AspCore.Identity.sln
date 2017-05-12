@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE.AspCore.Identity.MongoDb", "BE.AspCore.Identity.MongoDb\BE.AspCore.Identity.MongoDb.csproj", "{BA1E2C3A-D166-4002-B893-380F67E13D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE.AspCore.Identity.MvcWeb", "BE.AspCore.Identity.MvcWeb\BE.AspCore.Identity.MvcWeb.csproj", "{6ECDD248-CBE9-4E1B-B97E-96F27533C6F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1E2C3A-D166-4002-B893-380F67E13D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1E2C3A-D166-4002-B893-380F67E13D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1E2C3A-D166-4002-B893-380F67E13D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1E2C3A-D166-4002-B893-380F67E13D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECDD248-CBE9-4E1B-B97E-96F27533C6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECDD248-CBE9-4E1B-B97E-96F27533C6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECDD248-CBE9-4E1B-B97E-96F27533C6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECDD248-CBE9-4E1B-B97E-96F27533C6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
